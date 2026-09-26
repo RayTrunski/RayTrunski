@@ -89,5 +89,6 @@ Some of my professional work is developed in private organizational repositories
 
 ## Contact
 
-- GitHub: [RayTrunski](https://github.com/RayTrunski)
-- LinkedIn: Add your LinkedIn URL here
+- Personal GitHub: [RayTrunski](https://github.com/RayTrunski)
+- Work GitHub: [trotskyray](https://github.com/trotskyray)
+- LinkedIn: [Trotsky Ray](https://www.linkedin.com/in/saint-vil-trosky-ray)
